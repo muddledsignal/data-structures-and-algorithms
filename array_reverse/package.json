@@ -1,0 +1,22 @@
+{
+  "name": "data-structures-and-algorithms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "array_reverse.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muddledsignal/data-structures-and-algorithms.git"
+  },
+  "author": "Suzanne Leber and Edward Mark Puzino",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/muddledsignal/data-structures-and-algorithms/issues"
+  },
+  "homepage": "https://github.com/muddledsignal/data-structures-and-algorithms#readme",
+  "dependencies": {
+    "jest": "^23.6.0"
+  }
+}
